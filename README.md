@@ -1,4 +1,4 @@
-# 🤖 Documentação Técnica: Bot Tabela de Valores
+# Documentação Técnica: Bot Tabela de Valores
 
 **Autor:** Kalel Souza Barros  
 **Última Atualização:** Junho de 2026  
