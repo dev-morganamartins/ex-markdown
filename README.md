@@ -109,10 +109,3 @@ Ao localizar a tabela correta, o robô executa as seguintes subetapas:
 ### E. Finalização do Ciclo e Inativação
 
 Com a nova tabela gerada com sucesso, o bot executa a alteração de status da tabela `"uso administrativo"` antiga para **Inativa** (garantindo que o sistema use apenas a nova versão de dashboard). O fluxo limpa a memória temporária e avança de forma sequencial para o próximo ID mapeado na lista até concluir a fila.
-
-```
-
-### 💡 Dica para a sua gestão:
-Usando esse bot como espelho, o Kalel conseguirá facilmente adaptar os outros três bots (**BotDCSLauncher**, **BotDisparoReserva** e **BotValidaContratos**) exatamente para essa mesma estrutura, pois agora ele tem um guia claro de profundidade técnica e organização textual.
-
-```
